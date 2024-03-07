@@ -84,14 +84,14 @@
         android:layout_height="60dp"
         android:layout_gravity="center_horizontal"
         android:layout_marginTop="100dp"
-        android:background="@mipmap/panda" />
+        android:background="@color/colorPrimary" />
 
 
     <com.zhl.userguideview.UserGuideView
         android:id="@+id/guideView"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        app:HighlightViewStyle="circle"
+        app:HighlightViewStyle="rect"
         app:MaskBlurStyle="solid"
         app:maskColor="#b7000000"
         app:tipView="@mipmap/tip_view" />

@@ -2,9 +2,15 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UserGuideView.iml" filepath="$PROJECT_DIR$/UserGuideView.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Userguidelibrary/Userguidelibrary.iml" filepath="$PROJECT_DIR$/Userguidelibrary/Userguidelibrary.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/HighLight-GuideView.iml" filepath="$PROJECT_DIR$/.idea/modules/HighLight-GuideView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.iml" filepath="$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/Userguidelibrary/HighLight-GuideView.Userguidelibrary.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/HighLight-GuideView.app.unitTest.iml" />
     </modules>
   </component>
 </project>
